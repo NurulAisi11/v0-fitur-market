@@ -1,30 +1,5 @@
-# FiturMarket
+# Firebase Studio
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+This is a NextJS starter in Firebase Studio.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/nurul-aisiyahs-projects/v0-fitur-market)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/RcEKLi5v4wW)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/nurul-aisiyahs-projects/v0-fitur-market](https://vercel.com/nurul-aisiyahs-projects/v0-fitur-market)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/RcEKLi5v4wW](https://v0.app/chat/projects/RcEKLi5v4wW)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+To get started, take a look at src/app/page.tsx.
